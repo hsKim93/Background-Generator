@@ -1,1 +1,0 @@
-Changes Background graident upon user's request.
