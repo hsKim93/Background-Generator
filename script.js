@@ -5,6 +5,8 @@ let direction = document.querySelector(".direction");
 let body = document.getElementById("gradient");
 
 // can't figure out how to get initial CSS rgb code
+// can't figure out how to get initial CSS rgb code
+// can't figure out how to get initial CSS rgb code
 h3.textContent = body.style.background = "linear-gradient(to right, rgb(0, 255, 0),"
 + " rgb(255, 0, 0));";
 // console.log(css);
