@@ -1,3 +1,3 @@
 # Background-Generator
 
-git bash is hard
+Testing place for git bash practice
